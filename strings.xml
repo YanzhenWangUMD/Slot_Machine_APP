@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Slot Machine</string>
+    <string name="stringAmountLbl">Amount:</string>
+    <string name="stringBankLable">Bank: $</string>
+    <string name="stringSetValueLab">Set Value</string>
+    <string name="stringResetLab">Reset Game</string>
+    <string name="stringPullOverLab">Pull Level</string>
+</resources>
